@@ -28,13 +28,6 @@ Sou uma pessoa muito visual e me agrada muito transformar código em intefaces q
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mmancilha&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmancilha&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-<br>
-
 # In English
 
 Software/web programmer in development! 🫡 Currently studying for an MBA in Software Engineering with a focus on front-end. I currently have knowledge of React, React-Native, Angular, Tailwindcss, Nodejs, TypeScript, JavaScript, HTML, CSS and Python.
@@ -49,3 +42,9 @@ I'm a very visual person and I really enjoy transforming code into incredibly in
 - I currently work at [Suzano Papel e Celulose](https://www.suzano.com.br/)
 
 - 🗨️ I regularly publish motivational doses and biblical passages on [Instagram - Serbomfazbem](https://www.instagram.com/serbomfazbem/)
+
+- ## ⚙️ &nbsp;GitHub Analytics
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mmancilha&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmancilha&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
