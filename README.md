@@ -10,8 +10,6 @@ Acredito que a tecnologia tem o poder de transformar vidas e melhorar o mundo de
 Optei por me especializar em front-end porque sou uma pessoa extremamente visual e apaixonada por criar experiências de usuário excepcionais. Para mim, não se trata apenas de escrever código, mas sim de transformá-lo em interfaces que sejam incrivelmente intuitivas e acessíveis. A possibilidade de impactar diretamente a experiência do usuário final é o que mais me motiva nesta área.
 Sou uma pessoa muito visual e me agrada muito transformar código em intefaces que seja incrivelmente intuitiva e acessivel. É onde o usuário final vai acessar
 
-- Atualmente trabalho na [Suzano Papel e Celulose](https://www.suzano.com.br/)
-
 - 🗨️ Publico regularmente doses de motivação e passagens bíblicas em [Instagram - Serbomfazbem](https://www.instagram.com/serbomfazbem/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-mancilha/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayconmancilha/)
