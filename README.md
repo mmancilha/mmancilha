@@ -1,6 +1,6 @@
 # Hi, I'm Maycon Mancilha! 👋
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Maycon+Mancilha) <!-- Add a custom banner here -->
+![Banner](https://raw.githubusercontent.com/mmancilha/mmancilha/main/Colorful%20Infinite%20Logo%20Design.gif)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mmancilha&color=green" alt="Profile views" />
